@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: 2756941f0f1c9439a93f24a076659100
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: JC_Ladders_Small_Wood_pCube313 JC_Ladders_WoodenLadder_Small
+    100002: JC_Ladders_Small_Wood_pCube314 JC_Ladders_WoodenLadder_Small
+    100004: JC_Ladders_Small_Wood_pCube315 JC_Ladders_WoodenLadder_Small
+    100006: JC_Ladders_Small_Wood_pCube316 JC_Ladders_WoodenLadder_Small
+    100008: JC_Ladders_Small_Wood_pCube317 JC_Ladders_WoodenLadder_Small
+    100010: JC_Ladders_Small_Wood_pCube318 JC_Ladders_WoodenLadder_Small
+    100012: JC_Ladders_Small_Wood_pCube319 JC_Ladders_WoodenLadder_Small
+    100014: JC_Ladders_Small_Wood_pCube320 JC_Ladders_WoodenLadder_Small
+    100016: //RootNode
+    400000: JC_Ladders_Small_Wood_pCube313 JC_Ladders_WoodenLadder_Small
+    400002: JC_Ladders_Small_Wood_pCube314 JC_Ladders_WoodenLadder_Small
+    400004: JC_Ladders_Small_Wood_pCube315 JC_Ladders_WoodenLadder_Small
+    400006: JC_Ladders_Small_Wood_pCube316 JC_Ladders_WoodenLadder_Small
+    400008: JC_Ladders_Small_Wood_pCube317 JC_Ladders_WoodenLadder_Small
+    400010: JC_Ladders_Small_Wood_pCube318 JC_Ladders_WoodenLadder_Small
+    400012: JC_Ladders_Small_Wood_pCube319 JC_Ladders_WoodenLadder_Small
+    400014: JC_Ladders_Small_Wood_pCube320 JC_Ladders_WoodenLadder_Small
+    400016: //RootNode
+    2300000: JC_Ladders_Small_Wood_pCube313 JC_Ladders_WoodenLadder_Small
+    2300002: JC_Ladders_Small_Wood_pCube314 JC_Ladders_WoodenLadder_Small
+    2300004: JC_Ladders_Small_Wood_pCube315 JC_Ladders_WoodenLadder_Small
+    2300006: JC_Ladders_Small_Wood_pCube316 JC_Ladders_WoodenLadder_Small
+    2300008: JC_Ladders_Small_Wood_pCube317 JC_Ladders_WoodenLadder_Small
+    2300010: JC_Ladders_Small_Wood_pCube318 JC_Ladders_WoodenLadder_Small
+    2300012: JC_Ladders_Small_Wood_pCube319 JC_Ladders_WoodenLadder_Small
+    2300014: JC_Ladders_Small_Wood_pCube320 JC_Ladders_WoodenLadder_Small
+    3300000: JC_Ladders_Small_Wood_pCube313 JC_Ladders_WoodenLadder_Small
+    3300002: JC_Ladders_Small_Wood_pCube314 JC_Ladders_WoodenLadder_Small
+    3300004: JC_Ladders_Small_Wood_pCube315 JC_Ladders_WoodenLadder_Small
+    3300006: JC_Ladders_Small_Wood_pCube316 JC_Ladders_WoodenLadder_Small
+    3300008: JC_Ladders_Small_Wood_pCube317 JC_Ladders_WoodenLadder_Small
+    3300010: JC_Ladders_Small_Wood_pCube318 JC_Ladders_WoodenLadder_Small
+    3300012: JC_Ladders_Small_Wood_pCube319 JC_Ladders_WoodenLadder_Small
+    3300014: JC_Ladders_Small_Wood_pCube320 JC_Ladders_WoodenLadder_Small
+    4300000: JC_Ladders_Small_Wood_pCube313 JC_Ladders_WoodenLadder_Small
+    4300002: JC_Ladders_Small_Wood_pCube314 JC_Ladders_WoodenLadder_Small
+    4300004: JC_Ladders_Small_Wood_pCube315 JC_Ladders_WoodenLadder_Small
+    4300006: JC_Ladders_Small_Wood_pCube316 JC_Ladders_WoodenLadder_Small
+    4300008: JC_Ladders_Small_Wood_pCube317 JC_Ladders_WoodenLadder_Small
+    4300010: JC_Ladders_Small_Wood_pCube318 JC_Ladders_WoodenLadder_Small
+    4300012: JC_Ladders_Small_Wood_pCube319 JC_Ladders_WoodenLadder_Small
+    4300014: JC_Ladders_Small_Wood_pCube320 JC_Ladders_WoodenLadder_Small
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

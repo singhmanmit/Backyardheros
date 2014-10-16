@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 936df5c28ff71e84fac3cf2a88aca064
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube15
+      JC_WoodWall_Single_LTurn
+    100002: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube178
+      JC_WoodWall_Single_LTurn
+    100004: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube198
+      JC_WoodWall_Single_LTurn
+    100006: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube225
+      JC_WoodWall_Single_LTurn
+    100008: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube228
+      JC_WoodWall_Single_LTurn
+    100010: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube230
+      JC_WoodWall_Single_LTurn
+    100012: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube231
+      JC_WoodWall_Single_LTurn
+    100014: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube80
+      JC_WoodWall_Single_LTurn
+    100016: //RootNode
+    100018: JC_WoodWall_Single_LTurn
+    400000: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube15
+      JC_WoodWall_Single_LTurn
+    400002: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube178
+      JC_WoodWall_Single_LTurn
+    400004: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube198
+      JC_WoodWall_Single_LTurn
+    400006: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube225
+      JC_WoodWall_Single_LTurn
+    400008: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube228
+      JC_WoodWall_Single_LTurn
+    400010: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube230
+      JC_WoodWall_Single_LTurn
+    400012: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube231
+      JC_WoodWall_Single_LTurn
+    400014: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube80
+      JC_WoodWall_Single_LTurn
+    400016: JC_WoodWall_Single_LTurn
+    400018: //RootNode
+    2300000: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube15
+      JC_WoodWall_Single_LTurn
+    2300002: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube178
+      JC_WoodWall_Single_LTurn
+    2300004: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube198
+      JC_WoodWall_Single_LTurn
+    2300006: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube225
+      JC_WoodWall_Single_LTurn
+    2300008: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube228
+      JC_WoodWall_Single_LTurn
+    2300010: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube230
+      JC_WoodWall_Single_LTurn
+    2300012: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube231
+      JC_WoodWall_Single_LTurn
+    2300014: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube80
+      JC_WoodWall_Single_LTurn
+    2300016: JC_WoodWall_Single_LTurn
+    3300000: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube15
+      JC_WoodWall_Single_LTurn
+    3300002: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube178
+      JC_WoodWall_Single_LTurn
+    3300004: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube198
+      JC_WoodWall_Single_LTurn
+    3300006: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube225
+      JC_WoodWall_Single_LTurn
+    3300008: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube228
+      JC_WoodWall_Single_LTurn
+    3300010: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube230
+      JC_WoodWall_Single_LTurn
+    3300012: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube231
+      JC_WoodWall_Single_LTurn
+    3300014: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube80
+      JC_WoodWall_Single_LTurn
+    3300016: JC_WoodWall_Single_LTurn
+    4300000: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube15
+      JC_WoodWall_Single_LTurn
+    4300002: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube178
+      JC_WoodWall_Single_LTurn
+    4300004: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube198
+      JC_WoodWall_Single_LTurn
+    4300006: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube225
+      JC_WoodWall_Single_LTurn
+    4300008: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube228
+      JC_WoodWall_Single_LTurn
+    4300010: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube230
+      JC_WoodWall_Single_LTurn
+    4300012: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube231
+      JC_WoodWall_Single_LTurn
+    4300014: JC_WoodenWall_LTurn_Double:JC_WoodenWall_LTurn_Doubel_JC_WoodenWall_LTurn_Double:pCube80
+      JC_WoodWall_Single_LTurn
+    4300016: JC_WoodWall_Single_LTurn
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

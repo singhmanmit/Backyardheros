@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 94bc7d83f9ce440d2a8cd7031ba4fc9e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: christmas_lights_02:gear_piece_01_tower_legs tower
+    100004: tower_legs_tower christmas_lights_02:gear_piece_02
+    100006: tower_legs_tower christmas_lights_02:gear_piece_03
+    100008: tower_legs_tower christmas_lights_02:gear_piece_04
+    100010: tower_legs_tower christmas_lights_02:leg_piece_01
+    100012: tower_legs_tower christmas_lights_02:leg_piece_02
+    100014: tower_legs_tower christmas_lights_02:leg_piece_03
+    100016: tower_legs_tower christmas_lights_02:leg_piece_04
+    100018: tower_legs_tower christmas_lights_02:orb_01 tower_ball
+    100020: tower_legs_tower christmas_lights_02:pCylinder1 tower_platform
+    100022: tower_legs_tower christmas_lights_02:screw_01 tower_screws
+    100024: tower_legs_tower tower_ball christmas_lights_02:orb_light_02
+    100026: tower_legs_tower tower_ball christmas_lights_02:orb_light_04
+    100028: tower_legs_tower tower_ball christmas_lights_02:orb_light_06
+    100030: tower_legs_tower tower_ball christmas_lights_02:orb_light_08
+    100032: tower_legs_tower tower_ball christmas_lights_02:orb_light_09
+    100034: tower_legs_tower tower_platform christmas_lights_02:pCylinder15
+    100036: tower_legs_tower tower_screws christmas_lights_02:screw_02
+    100038: tower_legs_tower tower_screws christmas_lights_02:screw_03
+    100040: tower_legs_tower tower_screws christmas_lights_02:screw_04
+    400000: //RootNode
+    400002: christmas_lights_02:gear_piece_01_tower_legs tower
+    400004: tower_legs_tower christmas_lights_02:gear_piece_02
+    400006: tower_legs_tower christmas_lights_02:gear_piece_03
+    400008: tower_legs_tower christmas_lights_02:gear_piece_04
+    400010: tower_legs_tower christmas_lights_02:leg_piece_01
+    400012: tower_legs_tower christmas_lights_02:leg_piece_02
+    400014: tower_legs_tower christmas_lights_02:leg_piece_03
+    400016: tower_legs_tower christmas_lights_02:leg_piece_04
+    400018: tower_legs_tower christmas_lights_02:orb_01 tower_ball
+    400020: tower_legs_tower christmas_lights_02:pCylinder1 tower_platform
+    400022: tower_legs_tower christmas_lights_02:screw_01 tower_screws
+    400024: tower_legs_tower tower_ball christmas_lights_02:orb_light_02
+    400026: tower_legs_tower tower_ball christmas_lights_02:orb_light_04
+    400028: tower_legs_tower tower_ball christmas_lights_02:orb_light_06
+    400030: tower_legs_tower tower_ball christmas_lights_02:orb_light_08
+    400032: tower_legs_tower tower_ball christmas_lights_02:orb_light_09
+    400034: tower_legs_tower tower_platform christmas_lights_02:pCylinder15
+    400036: tower_legs_tower tower_screws christmas_lights_02:screw_02
+    400038: tower_legs_tower tower_screws christmas_lights_02:screw_03
+    400040: tower_legs_tower tower_screws christmas_lights_02:screw_04
+    2300000: christmas_lights_02:gear_piece_01_tower_legs tower
+    2300002: tower_legs_tower christmas_lights_02:gear_piece_02
+    2300004: tower_legs_tower christmas_lights_02:gear_piece_03
+    2300006: tower_legs_tower christmas_lights_02:gear_piece_04
+    2300008: tower_legs_tower christmas_lights_02:leg_piece_01
+    2300010: tower_legs_tower christmas_lights_02:leg_piece_02
+    2300012: tower_legs_tower christmas_lights_02:leg_piece_03
+    2300014: tower_legs_tower christmas_lights_02:leg_piece_04
+    2300016: tower_legs_tower christmas_lights_02:orb_01 tower_ball
+    2300018: tower_legs_tower christmas_lights_02:pCylinder1 tower_platform
+    2300020: tower_legs_tower christmas_lights_02:screw_01 tower_screws
+    2300022: tower_legs_tower tower_ball christmas_lights_02:orb_light_02
+    2300024: tower_legs_tower tower_ball christmas_lights_02:orb_light_04
+    2300026: tower_legs_tower tower_ball christmas_lights_02:orb_light_06
+    2300028: tower_legs_tower tower_ball christmas_lights_02:orb_light_08
+    2300030: tower_legs_tower tower_ball christmas_lights_02:orb_light_09
+    2300032: tower_legs_tower tower_platform christmas_lights_02:pCylinder15
+    2300034: tower_legs_tower tower_screws christmas_lights_02:screw_02
+    2300036: tower_legs_tower tower_screws christmas_lights_02:screw_03
+    2300038: tower_legs_tower tower_screws christmas_lights_02:screw_04
+    3300000: christmas_lights_02:gear_piece_01_tower_legs tower
+    3300002: tower_legs_tower christmas_lights_02:gear_piece_02
+    3300004: tower_legs_tower christmas_lights_02:gear_piece_03
+    3300006: tower_legs_tower christmas_lights_02:gear_piece_04
+    3300008: tower_legs_tower christmas_lights_02:leg_piece_01
+    3300010: tower_legs_tower christmas_lights_02:leg_piece_02
+    3300012: tower_legs_tower christmas_lights_02:leg_piece_03
+    3300014: tower_legs_tower christmas_lights_02:leg_piece_04
+    3300016: tower_legs_tower christmas_lights_02:orb_01 tower_ball
+    3300018: tower_legs_tower christmas_lights_02:pCylinder1 tower_platform
+    3300020: tower_legs_tower christmas_lights_02:screw_01 tower_screws
+    3300022: tower_legs_tower tower_ball christmas_lights_02:orb_light_02
+    3300024: tower_legs_tower tower_ball christmas_lights_02:orb_light_04
+    3300026: tower_legs_tower tower_ball christmas_lights_02:orb_light_06
+    3300028: tower_legs_tower tower_ball christmas_lights_02:orb_light_08
+    3300030: tower_legs_tower tower_ball christmas_lights_02:orb_light_09
+    3300032: tower_legs_tower tower_platform christmas_lights_02:pCylinder15
+    3300034: tower_legs_tower tower_screws christmas_lights_02:screw_02
+    3300036: tower_legs_tower tower_screws christmas_lights_02:screw_03
+    3300038: tower_legs_tower tower_screws christmas_lights_02:screw_04
+    4300000: christmas_lights_02:gear_piece_01_tower_legs tower
+    4300002: tower_legs_tower christmas_lights_02:gear_piece_02
+    4300004: tower_legs_tower christmas_lights_02:gear_piece_03
+    4300006: tower_legs_tower christmas_lights_02:gear_piece_04
+    4300008: tower_legs_tower christmas_lights_02:leg_piece_01
+    4300010: tower_legs_tower christmas_lights_02:leg_piece_02
+    4300012: tower_legs_tower christmas_lights_02:leg_piece_03
+    4300014: tower_legs_tower christmas_lights_02:leg_piece_04
+    4300016: tower_legs_tower christmas_lights_02:orb_01 tower_ball
+    4300018: tower_legs_tower christmas_lights_02:pCylinder1 tower_platform
+    4300020: tower_legs_tower christmas_lights_02:screw_01 tower_screws
+    4300022: tower_legs_tower tower_ball christmas_lights_02:orb_light_02
+    4300024: tower_legs_tower tower_ball christmas_lights_02:orb_light_04
+    4300026: tower_legs_tower tower_ball christmas_lights_02:orb_light_06
+    4300028: tower_legs_tower tower_ball christmas_lights_02:orb_light_08
+    4300030: tower_legs_tower tower_ball christmas_lights_02:orb_light_09
+    4300032: tower_legs_tower tower_platform christmas_lights_02:pCylinder15
+    4300034: tower_legs_tower tower_screws christmas_lights_02:screw_02
+    4300036: tower_legs_tower tower_screws christmas_lights_02:screw_03
+    4300038: tower_legs_tower tower_screws christmas_lights_02:screw_04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
